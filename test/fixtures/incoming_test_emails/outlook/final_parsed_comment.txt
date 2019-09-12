@@ -1,4 +1,5 @@
- This is the second reply sent by the user.
+
+\r This is the second reply sent by the user.
 <!-- @@$$%% Trimmed Content @@$$%% -->* * *
 
 <font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>From:</b> TestUser PublicLab<br>
@@ -15,7 +16,8 @@ p
 -->
 </style>
 
- This is the first reply sent by the user.
+
+\r This is the first reply sent by the user.
 
 * * *
 
